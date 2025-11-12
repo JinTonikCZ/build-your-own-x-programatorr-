@@ -38,8 +38,8 @@ It's a great way to learn.
 
 ## Tutorials
 
-#### Build your own `3D Renderer` <details>
-
+#### Build your own `3D Renderer`
+<details>
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
